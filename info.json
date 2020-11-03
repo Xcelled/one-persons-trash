@@ -1,0 +1,11 @@
+{
+    "name": "one-persons-trash",
+    "version": "1.0.0",
+    "title": "One Person's Trash...",
+    "author": "Mooeing-747",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "1.0",
+    "description": "Items from your trash slots will be moved to your main inventory if they would fulfill a personal logistics request",
+    "dependencies": ["base >= 0.18.0"]
+}
